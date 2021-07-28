@@ -18,11 +18,11 @@
 
 1. 起動した laravel アプリをブラウザで表示する
 
-   - http://localhost:10580 にアクセスする
+   - http://localhost:10480 にアクセスする
 
 1. 起動した phpMyAdmin をブラウザで表示する
 
-   - http://localhost:10581 にアクセスする
+   - http://localhost:10481 にアクセスする
 
 ## コンテナを起動する方法
 
